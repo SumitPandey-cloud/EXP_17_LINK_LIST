@@ -1,5 +1,5 @@
-# CDS-experiment-17
-c plus plus and data structures experiment 17
+# EXPERIMENT 17
+
 
 AIM:- To learn and implement singly linked lists.<br>
 
